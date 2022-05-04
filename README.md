@@ -1,5 +1,8 @@
-# FLASK_TODO_APP
+# **FLASK_TODO_APP**
 
+
+### HOME
+<img src="images/Home.png">
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rohitkrtiwari.github.io/Portfolio)
